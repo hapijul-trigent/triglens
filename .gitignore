@@ -3,3 +3,4 @@
 *.log
 *.pkl
 __pycache__/
+notebooks/mlruns
